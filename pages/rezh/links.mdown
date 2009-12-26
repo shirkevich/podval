@@ -1,0 +1,10 @@
+# Ссылки
+
+Дружественные организации и партнеры:
+
+	<a href="http://www.s-p.ru/" target="_blank">"Символ-Прогресс"</a><br>
+<a href="http://ad.yandex.ru/maria/" target="_blank">"Дети Марии"</a><br>
+<a href="http://perspektiva-inva.ru/index-rus.shtml?list=1" target="_blank">РООИ "Перспектива"</a><br>
+<a href="http://www.gallaudet.edu/" target="_blank">Галладетский Университет (Gallaudet University, Washington D.C.)</a><br>
+<a href="http://www.aids.ru/" target="_blank">www.aids.ru</a>
+
