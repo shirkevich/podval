@@ -1,10 +1,21 @@
 # Ссылки
 
-Дружественные организации и партнеры:
+## Дружественные организации и партнеры:
 
-	<a href="http://www.s-p.ru/" target="_blank">"Символ-Прогресс"</a><br>
-<a href="http://ad.yandex.ru/maria/" target="_blank">"Дети Марии"</a><br>
-<a href="http://perspektiva-inva.ru/index-rus.shtml?list=1" target="_blank">РООИ "Перспектива"</a><br>
-<a href="http://www.gallaudet.edu/" target="_blank">Галладетский Университет (Gallaudet University, Washington D.C.)</a><br>
-<a href="http://www.aids.ru/" target="_blank">www.aids.ru</a>
+[Символ-Прогресс](http://www.s-p.ru/)
+
+[Международная финансовая корпорация](http://www.ifc.org/ifcext/russian.nsf/Content/Organization)
+
+[Дети Марии](http://mariaschildren.ru/)
+
+[РООИ "Перспектива"](http://perspektiva-inva.ru/)
+
+[Галладетский Университет (Gallaudet University, Washington D.C.)](http://www.gallaudet.edu/)
+
+[Портал aids.ru](http://www.aids.ru/)
+
+[Фонд "Береги себя"](http://takecare74.ru/)
+
+[Фонд помощи детям-сиротам "Здесь и сейчас!"](http://www.hereandnow.ru)
+
 
