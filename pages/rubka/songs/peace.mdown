@@ -1,15 +1,16 @@
 # Из Дитя мира
 
-<h2 id="pesni2"> песни из спектаклей и фестивалей:</h2>
-- [Reach Out](#pc1)
-- [В столице, наверное, каждый бывал...](#pc2)
-- [Мы едем, едем, едем](#pc3)
-- [I want to live](#pc4)
-- [We want this world to survive forever...](#pc5)
+<h2 id="pesni2"> песни из спектаклей и c фестивалей Peace Child:</h2>
+- [Reach Out](#reachout)
+- [I want to live](#wannalive)
+- [В столице, наверное, каждый бывал...](#stolica)
+- [Мы едем, едем, едем](#edem)
+- [We want this world to survive forever...](#survive)
 
-<h2 id="pc1">Reach out</h2>
 
-*музыку должен знать каждый подвалец*
+<h2 id="reachout">Reach out</h2>
+
+*Гимн Peace Child*
 	 
 Reach out for a star
 Come out from where you are
@@ -44,8 +45,9 @@ You are your greatest wealth
 
 [к списку](#pesni2)↑
 
-<h2 id="pc2">I want to live</h2>
-	 
+<h2 id="wannalive">I want to live</h2>
+
+*Из спектакля Дитя мира*	 
 Хочу я жить
 Хочу я жить
 Хочу мечтать и петь
@@ -62,9 +64,9 @@ You are your greatest wealth
 
 [к списку](#pesni2)↑
 
-<h2 id="pc3">В столице, наверное, каждый бывал...</h2>
+<h2 id="stolica">В столице, наверное, каждый бывал...</h2>
 
-*Казанский фестиваль*
+*из выступления Подвала на Казанском фестивале Peace Child в 1991-ом*
 	 
 
 В столице, наверное, каждый бывал,
@@ -105,9 +107,9 @@ You are your greatest wealth
 
 [к списку](#pesni2)↑
 
-<h2 id="pc4">Мы едем, едем, едем...</h2>
+<h2 id="edem">Мы едем, едем, едем...</h2>
 
-*Казанский фестиваль*
+*из выступления Подвала на Казанском фестивале Peace Child в 1991-ом*
 	 
 Мы едем, едем, едем - в Литву мы держим путь
 Опять не дали детям спокойно отдохнуть
@@ -129,9 +131,9 @@ You are your greatest wealth
 
 [к списку](#pesni2)↑
 
-<h2 id="pc5">We want this world to survive...</h2>
+<h2 id="survive">We want this world to survive...</h2>
 
-*слова помним не все*
+*Пели на том же фестивале, но сейчас слова вспомнили не все*
 
 All the time through the day and through the night
 I think about the life in this world
